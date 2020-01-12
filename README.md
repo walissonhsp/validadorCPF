@@ -1,2 +1,3 @@
 # validadorCPF
-Validador de CPF
+
+Método responsável por validar se o CPF foi digitado corretamente.
